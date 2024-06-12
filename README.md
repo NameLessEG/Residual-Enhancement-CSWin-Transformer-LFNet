@@ -1,7 +1,7 @@
 # RET
 
 <br>
-<p align="center"> <img src="https://github.com/NameLessEG/CSWin-ErrorFeedbackNet/blob/main/Figs/overview.png" width="90%"> </p>
+<p align="center"> <img src="https://github.com/NameLessEG/NameLessEG-Residual-Enhancement-Transformer-CSWin-LFNet/blob/main/Figs/overview.png" width="90%"> </p>
 
 ## Updates
 - **2024.04:** The code is released.
@@ -51,7 +51,7 @@ To generate visual super-resolved results, use Matlab to run `GenerateResultImag
 
 ## Performance
 ### Quantitative comparisons
-<p align="center"> <img src="https://github.com/NameLessEG/CSWin-ErrorFeedbackNet/blob/main/Figs/quantitativeresults.png" width="95%"> </p>
+<p align="center"> <img src="https://github.com/NameLessEG/NameLessEG-Residual-Enhancement-Transformer-CSWin-LFNet/blob/main/Figs/quantitativeresults.png" width="95%"> </p>
 
 ### Visual comparisons
 <p align="center">
