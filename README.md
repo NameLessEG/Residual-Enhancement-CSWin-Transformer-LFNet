@@ -43,7 +43,7 @@ To perform RET training, run `python train.py`
 Checkpoint will be saved to `./log/`.
 
 ## Test
-To evaluate CSWin-ErrorFeedbackNet performance, run `python test.py`
+To evaluate RET performance, run `python test.py`
 The performance of RET on five datasets will be printed on the screen. Visual results of each scene will be saved in `./Results/`. PSNR and SSIM values of each scene will also be saved in `./PSNRSSIM/`.
 
 ## Generate Visual Results
