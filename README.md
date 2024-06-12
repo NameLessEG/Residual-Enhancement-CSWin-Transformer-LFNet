@@ -5,7 +5,7 @@
 
 ## Updates
 - **2024.04:** The code is released.
-
+- **2024.06:** Due to a system reinstallation caused by a memory crash, the model files were lost, and the fusion transformer is missing. We apologize for the inconvenience and will provide updates soon..
 ## Requirements
 - Python 3.8 (Ubuntu 20.04)
 - PyTorch 1.10.0
