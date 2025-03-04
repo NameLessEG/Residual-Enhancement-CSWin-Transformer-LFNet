@@ -5,6 +5,7 @@
 
 ## Updates
 - **2024.04:** The code is released.
+- **2025.03:** The detailed paper is released.[paper](https://github.com/NameLessEG/Residual-Enhancement-CSWin-Transformer-LFNet/blob/main/Learning%20Domain-Agnostic%20Spatial-Angular%20Feature%20for%20Light%20Field%20Image%20Super-Resolution.pdf)
 
 ## Requirements
 - Python 3.8 (Ubuntu 20.04)
